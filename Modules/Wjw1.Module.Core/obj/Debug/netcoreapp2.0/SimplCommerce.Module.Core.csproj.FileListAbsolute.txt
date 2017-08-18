@@ -1,0 +1,11 @@
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\bin\Debug\netcoreapp2.0\SimplCommerce.Module.Core.deps.json
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\bin\Debug\netcoreapp2.0\SimplCommerce.Module.Core.dll
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\bin\Debug\netcoreapp2.0\SimplCommerce.Module.Core.pdb
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\bin\Debug\netcoreapp2.0\SimplCommerce.Infrastructure.dll
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\bin\Debug\netcoreapp2.0\SimplCommerce.Infrastructure.pdb
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\obj\Debug\netcoreapp2.0\SimplCommerce.Module.Core.csprojResolveAssemblyReference.cache
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\obj\Debug\netcoreapp2.0\SimplCommerce.Module.Core.csproj.CoreCompileInputs.cache
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\obj\Debug\netcoreapp2.0\SimplCommerce.Module.Core.AssemblyInfoInputs.cache
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\obj\Debug\netcoreapp2.0\SimplCommerce.Module.Core.AssemblyInfo.cs
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\obj\Debug\netcoreapp2.0\SimplCommerce.Module.Core.dll
+H:\VSCode\GITRepos\SimplCommerce\src\Modules\SimplCommerce.Module.Core\obj\Debug\netcoreapp2.0\SimplCommerce.Module.Core.pdb

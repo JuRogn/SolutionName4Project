@@ -1,0 +1,4 @@
+E:\VSCode\GITRepos\SolutionName4Project\Wjw1.Infrastructure\obj\Debug\netcoreapp2.0\Wjw1.Infrastructure.csprojResolveAssemblyReference.cache
+E:\VSCode\GITRepos\SolutionName4Project\Wjw1.Infrastructure\obj\Debug\netcoreapp2.0\Wjw1.Infrastructure.csproj.CoreCompileInputs.cache
+E:\VSCode\GITRepos\SolutionName4Project\Wjw1.Infrastructure\obj\Debug\netcoreapp2.0\Wjw1.Infrastructure.AssemblyInfoInputs.cache
+E:\VSCode\GITRepos\SolutionName4Project\Wjw1.Infrastructure\obj\Debug\netcoreapp2.0\Wjw1.Infrastructure.AssemblyInfo.cs
